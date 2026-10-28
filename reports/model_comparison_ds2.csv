@@ -1,0 +1,2 @@
+Model,Train Acc (%),Val Acc (%),Test Acc (%),Precision (%),Recall (%),F1-Score (%),Specificity (%),MCC (%)
+svm_linear,100.0,99.0,96.51741293532339,96.62626262626263,96.5,96.468671679198,99.1304347826087,95.67473580726934
